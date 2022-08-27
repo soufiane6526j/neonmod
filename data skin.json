@@ -1,33 +1,33 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		"banner_type": "admob",
+		 "rewarde_type": "yandex",
+		"native_type": "yandex",
+		"inter_type": "yandex",
+		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
 		"cpa_sous_title": "admob",
 		"cpa_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
-		"show_cpa": true,
+		"show_cpa": false,
 
 
 		"cpa_popup_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_popup_title": "admob",
 		"CpaPopUpSousTitle": "admob",
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
-		"cpa_popup_time": 1,
+		"cpa_popup_time": 100,
 
-		"unity_id": "4292105",
+		"unity_id": "4280078",
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
 		"ironsource_id": "11c7e1165",
 
-		"interstitial_yandex": "adf-279013/966533",
-		"banner_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
-		"rewarde_yandex": "adf-279013/966487",
+		"interstitial_yandex": "R-M-1798872-7",
+		"banner_yandex": "R-M-1798872-5",
+		"native_yandex": "R-M-1798872-6",
+		"rewarde_yandex": "R-M-1798872-8",
 
 		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
