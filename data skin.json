@@ -1,8 +1,8 @@
 {
 	"ADS": {
-		 "rewarde_type": "ironsource",
+		 "rewarde_type": "yandex",
 		"native_type": "yandex",
-		"inter_type": "ironsource",
+		"inter_type": "yandex",
 		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
@@ -24,7 +24,7 @@
 
 		"ironsource_id": "1639eb565",
 
-		"interstitial_yandex": "R-M-1798872-7",
+		"interstitial_yandex": "R-M-1823223-4",
 		"banner_yandex": "R-M-1798872-5",
 		"native_yandex": "R-M-1798872-6",
 		"rewarde_yandex": "R-M-1798872-8",
