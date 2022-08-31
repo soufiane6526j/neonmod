@@ -16,18 +16,18 @@
 		"cpa_popup_title": "admob",
 		"CpaPopUpSousTitle": "admob",
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
-		"cpa_popup_time": 100,
+		"cpa_popup_time": 1000,
 
-		"unity_id": "4280078",
+		"unity_id": "4292105",
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
 		"ironsource_id": "1639eb565",
 
 		"interstitial_yandex": "R-M-1823223-4",
-		"banner_yandex": "R-M-1798872-5",
-		"native_yandex": "R-M-1798872-6",
-		"rewarde_yandex": "R-M-1798872-8",
+		"banner_yandex": "R-M-1823223-2",
+		"native_yandex": "R-M-1823223-3",
+		"rewarde_yandex": "R-M-1823223-5",
 
 		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
