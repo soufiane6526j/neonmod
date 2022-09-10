@@ -1,6 +1,6 @@
 {
 	"ADS": {
-		 "rewarde_type": "yandex",
+		 "rewarde_type": "unity",
 		"native_type": "yandex",
 		"inter_type": "yandex",
 		"banner_type": "yandex",
@@ -18,7 +18,7 @@
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_popup_time": 1000,
 
-		"unity_id": "4292105",
+		"unity_id": "4873217",
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
