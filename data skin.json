@@ -1,8 +1,8 @@
 {
 	"ADS": {
-		 "rewarde_type": "yandex",
+		 "rewarde_type": "ironsource",
 		"native_type": "yandex",
-		"inter_type": "yandex",
+		"inter_type": "ironsource",
 		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
@@ -22,7 +22,7 @@
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
-		"ironsource_id": "1639eb565",
+		"ironsource_id": "115199abd",
 
 		"interstitial_yandex": "R-M-1695214-7",
 		"banner_yandex": "R-M-1695214-5",
