@@ -1,8 +1,8 @@
 {
 	"ADS": {
 		 "rewarde_type": "yandex",
-		"native_type": "admob",
-		"inter_type": "admob",
+		"native_type": "yandex",
+		"inter_type": "yandex",
 		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
